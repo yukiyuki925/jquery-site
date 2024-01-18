@@ -15,6 +15,7 @@ body {
 header {
   height: 680px;
   max-width: 100%;
+  width: 1440px;
   margin: 0 auto;
   position: relative;
   background-repeat: no-repeat;
@@ -370,6 +371,9 @@ header button {
 
 .middle-img {
   background-color: #00B21B;
+  width: 1440px;
+  max-width: 100%;
+  margin: 0 auto;
 }
 
 .middle-img img {
@@ -527,7 +531,7 @@ header button {
 /* studio */
 
 .studio {
-  margin: 30px 0;
+  margin: 30px auto 0;
   height: 850px;
   padding: 0 12px;
 }
@@ -945,6 +949,9 @@ header button {
 /* footer */
 footer {
   background-color: #111111;
+  max-width: 100%;
+  width: 1440px;
+  margin: 0 auto;
 }
 
 footer h1 {
