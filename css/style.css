@@ -1235,7 +1235,7 @@ nav ul li a {
 @media screen and (max-width: 959px) {
 
   header {
-    max-width: 900px;
+    max-width: 959px;
     width: 100%;
   }
 
@@ -2038,6 +2038,12 @@ nav ul li a {
 
   .footer-wrapper {
     padding: 20px 0;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  header nav {
+    margin-left: 200px;
   }
 }
 
