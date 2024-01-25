@@ -212,7 +212,6 @@ header button {
 
 .openbtn.active span:nth-of-type(2) {
   opacity: 0;
-  /*真ん中の線は透過*/
 }
 
 .openbtn.active span:nth-of-type(3) {
